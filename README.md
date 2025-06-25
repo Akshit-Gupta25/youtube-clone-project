@@ -84,7 +84,7 @@ cd youtube-clone
 ## 👨‍💻 Author
 
 **Akshit Gupta**
-📧 \[Your Email]
+📧 \[akshitgupta25.iitm@gmail.com]
 🔗 \[LinkedIn / GitHub Profile Link]
 
 ---
